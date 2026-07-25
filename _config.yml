@@ -84,8 +84,8 @@ author:
   name             : "唐孟祺"
   avatar           : "EmbeddedImage.jpg"
   bio              : "Meng-Chi Tang"
-  location         : "Interntaional College of Innovation"
-  employer         :  "https://www.nccu.edu.tw/"
+  location         : "National Chengchi University"
+  employer         :  #"https://www.nccu.edu.tw/"
   pubmed           :
   googlescholar    : "https://scholar.google.com.tw/citations?user=pAMSkvMAAAAJ&hl=en"
   email            : "mengchi@nccu.edu.tw"
