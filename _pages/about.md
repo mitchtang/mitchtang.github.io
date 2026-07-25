@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am an associate professor at the International College of Innovation, [National Chengchi University](https://ici.nccu.edu.tw/) in Taiwan.
+* I am an associate professor at the [International College of Innovation](https://ici.nccu.edu.tw/), [National Chengchi University](https://www.nccu.edu.tw/) in Taiwan.
 <!--* I am a professor at the Department of Economics, [National Chung Cheng University](http://econ.ccu.edu.tw) in Taiwan.-->
-* I received my Ph.D. from the Department of Economics, [Michigan State University](http://econ.msu.edu) in 2009.
+* I received my Ph.D. from the [Department of Economics](http://econ.msu.edu), Michigan State University in 2009.
 * My research interests are **empirical industrial organization**, **health economics**, **family**, and **gender**. 
 * My current research focuses on health economics. Current research topics include:
   * Physician ownership, peer effect, and physicians' prescription choices and quality.
