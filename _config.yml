@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Meng-Chi Tang"
 title_separator          : "-"
 name                     : &name "Meng-Chi Tang"
-description              : &description #"I am a professor at Department of Economics, National Chung Cheng University in Taiwan. I received my Ph.D. from Department of Economics, Michigan State University in 2009. "
+description              : &description #"I am a professor at Department of Economics, National Chung Cheng University in Taiwan. I received my Ph.D. from Department of Economics, Michigan State U[...]
 url                      : https://mitchtang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mitchtang/mitchtang.github.io"
@@ -85,6 +85,7 @@ author:
   avatar           : "EmbeddedImage.jpg"
   bio              : "Meng-Chi Tang"
   location         : "National Chengchi University"
+  location_url     : "https://www.nccu.edu.tw/"
   employer         :  #"https://www.nccu.edu.tw/"
   pubmed           :
   googlescholar    : "https://scholar.google.com.tw/citations?user=pAMSkvMAAAAJ&hl=en"
