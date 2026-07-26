@@ -84,7 +84,7 @@ author:
   name             : "唐孟祺"
   avatar           : "EmbeddedImage.jpg"
   bio              : "Meng-Chi Tang"
-  location         : "National Chengchi University"
+  location         : #"National Chengchi University"
   location_url     : "https://www.nccu.edu.tw/"
   employer         : "National Chengchi University"
   pubmed           :
