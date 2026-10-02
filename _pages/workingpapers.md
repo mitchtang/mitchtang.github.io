@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+## Working Papers
+
+{% for post in site.workingpapers reversed %}
+  {% if post.venue == 'work in progress' %}{% continue %}{% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Work in Progress
+
+{% for post in site.workingpapers reversed %}
+  {% if post.venue != 'work in progress' %}{% continue %}{% endif %}
   {% include archive-single.html %}
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 title: "The Effect of Endogenous Campaign Spending and Voter Heterogeneity on Candidates’ Vote Share: The Case of 2014 Taiwanese Local Elections"
-collection: portfolio
+collection: publications
 permalink: /portfolio/voting
 excerpt: 'with **Ya-Wei Huang**'
 date: 2022-06-08
