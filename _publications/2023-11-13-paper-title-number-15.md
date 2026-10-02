@@ -1,6 +1,6 @@
 ---
 title: "Medical Providers’ Supply Curve in a Universal Healthcare System with Global Budgeting"
-collection: portfolio
+collection: publications
 permalink: /publications/2023-11-13-paper-title-number-15
 excerpt: ''
 date: 2023-11-13
