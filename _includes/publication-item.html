@@ -12,6 +12,6 @@
   <span class="pub-item__links">
     {% if include.post.paper_link %}<a href="{{ include.post.paper_link }}">Paper</a>{% endif %}
     {% assign abstract_size = include.post.content | strip_html | size %}
-    {% if abstract_size > 80 %}{% if include.post.paper_link %} · {% endif %}<a href="{{ base_path }}{{ include.post.url }}">Abstract</a>{% endif %}
+    {% if abstract_size > 80 %}<a href="{{ base_path }}{{ include.post.url }}">Abstract</a>{% endif %}
   </span>
 </li>
