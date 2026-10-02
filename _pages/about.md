@@ -21,4 +21,4 @@ redirect_from:
   * The effects of smoking bans on newborns' health in Japan.
   * Fertility and Pension Reform in Taiwan.
 
-<div style="text-align:right"> <em>Latest update: August, 01, 2026</em>
+<div style="text-align:right"> <em>Latest update: October, 02, 2026</em>
