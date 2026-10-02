@@ -34,30 +34,6 @@ redirect_from:
 
 Industrial Organization, Health, Family and Gender
 
-## Publications
-
-<ul class="pub-list">
-{% for post in site.publications reversed %}
-  {% include publication-item.html post=post %}
-{% endfor %}
-</ul>
-
-## Working Papers
-
-<ul class="pub-list">
-{% for post in site.workingpapers reversed %}
-  {% if post.venue != 'work in progress' %}{% include publication-item.html post=post %}{% endif %}
-{% endfor %}
-</ul>
-
-## Work in Progress
-
-<ul class="pub-list">
-{% for post in site.workingpapers reversed %}
-  {% if post.venue == 'work in progress' %}{% include publication-item.html post=post %}{% endif %}
-{% endfor %}
-</ul>
-
 ## Awards and Grants
 
 - National Science Council (Ministry of Science and Technology) Research Grants, 2009–10, 2010–11, 2011–12, 2012–13 (×2), 2013–14, 2014–15, 2015–16, 2016–18, 2018–20, 2020–22, 2021–22, 2022–24, 2023–25, 2024–27, 2025–27
