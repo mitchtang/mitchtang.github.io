@@ -6,15 +6,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Working Papers"
-#    url: /workingpapers/
-
 #- title: "Teaching"
 #        url: /teaching/
 
 
   - title: "Working Papers"
-    url: /portfolio/
+    url: /workingpapers/
 
 
   #- title: "Blog Posts"
