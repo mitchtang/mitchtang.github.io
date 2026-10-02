@@ -5,6 +5,9 @@ permalink: /publication/2013-11-01-paper-title-number-3
 excerpt: 'with **Mike Conlin** and **Joe Orsini**'
 date: 2013-11-01
 venue: 'Economics Letters'
+topic: 'Industrial Organization and Other Fields'
+details: '121, 275–281'
+paper_link: 'https://www.dropbox.com/s/xv196u9gmtoy6jb/EL.pdf?dl=0'
 #paperurl: 'https://doi.org/10.1016/j.econlet.2013.08.017'
 #citation: 'Conlin, M., Orsini, J., & Tang, M. -C. (2013). The Effect of an Agent’s Expertise on National Football League Contract Structure. Economics Letters, 121(2), 275–281.'
 ---

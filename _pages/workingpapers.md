@@ -13,14 +13,16 @@ author_profile: true
 
 ## Working Papers
 
+<ul class="pub-list">
 {% for post in site.workingpapers reversed %}
-  {% if post.venue == 'work in progress' %}{% continue %}{% endif %}
-  {% include archive-single.html %}
+  {% if post.venue != 'work in progress' %}{% include publication-item.html post=post %}{% endif %}
 {% endfor %}
+</ul>
 
 ## Work in Progress
 
+<ul class="pub-list">
 {% for post in site.workingpapers reversed %}
-  {% if post.venue != 'work in progress' %}{% continue %}{% endif %}
-  {% include archive-single.html %}
+  {% if post.venue == 'work in progress' %}{% include publication-item.html post=post %}{% endif %}
 {% endfor %}
+</ul>

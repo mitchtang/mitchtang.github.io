@@ -1,0 +1,15 @@
+{% include base_path %}
+{% assign title = include.post.title | markdownify | remove: "<p>" | remove: "</p>" | strip %}
+{% assign coauthors = include.post.excerpt | markdownify | remove: "<p>" | remove: "</p>" | strip %}
+<li class="pub-item">
+  <span class="pub-item__title">{{ title }}</span>
+  {% if coauthors != "" %}<span class="pub-item__coauthors">({{ coauthors }})</span>{% endif %}<br>
+  {% if include.post.collection == 'publications' %}
+    <em>{{ include.post.venue }}</em>{% if include.post.details != "" and include.post.details %}, {{ include.post.details }}{% endif %}{% unless include.post.details == "forthcoming" %}, {{ include.post.date | date: "%Y" }}{% endunless %}.
+  {% endif %}
+  <span class="pub-item__links">
+    {% if include.post.paper_link %}<a href="{{ include.post.paper_link }}">Paper</a>{% endif %}
+    {% assign abstract_size = include.post.content | strip_html | size %}
+    {% if abstract_size > 80 %}{% if include.post.paper_link %} · {% endif %}<a href="{{ base_path }}{{ include.post.url }}">Abstract</a>{% endif %}
+  </span>
+</li>

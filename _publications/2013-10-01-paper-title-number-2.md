@@ -5,6 +5,9 @@ permalink: /publication/2013-10-01-paper-title-number-2
 excerpt: ''
 date: 2013-10-01
 venue: 'B.E. Journal of Economic Analysis and Policy'
+topic: 'Industrial Organization and Other Fields'
+details: '13(2), 1023–1050'
+paper_link: 'https://www.dropbox.com/s/zlogmee0d7u1xsc/BEJEAP.pdf?dl=0'
 #paperurl: 'doi:10.1515/bejeap-2012-0051'
 #citation: 'Tang, M. -C. (2013). The Multitude of Alehouses: The Effects of Alcohol Outlet Density on Highway Safety. The B.E. Journal of Economic Analysis & Policy, 13(2), pp. 1023-1050. '
 ---

@@ -3,8 +3,11 @@ title: "Medical Providers’ Supply Curve in a Universal Healthcare System with 
 collection: publications
 permalink: /publications/2023-11-13-paper-title-number-15
 excerpt: ''
-date: 2023-11-13
+date: 2024-06-01
 venue: 'Empirical Economics'
+topic: 'Health Economics'
+details: '66(6), 2795–2822'
+paper_link: 'https://doi.org/10.1007/s00181-023-02534-3'
 #paperurl: '(https://doi.org/10.1007/s00181-023-02534-3)'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
 ---

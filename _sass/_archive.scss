@@ -243,3 +243,24 @@
     }
   }
 }
+
+/* compact citation-style lists (Publications / Working Papers) */
+.pub-list {
+  list-style: none;
+  margin: 0 0 2em;
+  padding: 0;
+}
+
+.pub-item {
+  margin-bottom: 1em;
+  line-height: 1.5;
+}
+
+.pub-item__title {
+  font-weight: bold;
+}
+
+.pub-item__links {
+  font-size: 0.85em;
+  margin-left: 0.25em;
+}

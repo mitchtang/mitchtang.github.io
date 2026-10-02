@@ -5,6 +5,9 @@ permalink: /portfolio/voting
 excerpt: 'with **Ya-Wei Huang**'
 date: 2022-06-08
 venue: 'Economic Modelling'
+topic: 'Industrial Organization and Other Fields'
+details: '114, 105919'
+paper_link: 'https://www.dropbox.com/s/gt8yq5i3qx1cnvd/EM.pdf?dl=0'
 #paperurl: 'https://doi.org/10.1016/j.econmod.2022.105919'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
 ---

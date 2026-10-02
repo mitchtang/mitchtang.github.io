@@ -5,6 +5,9 @@ permalink: /publication/2018-11-01-paper-title-number-8
 excerpt: 'with **Hung-pin Lai**'
 date: 2018-11-01
 venue: 'Empirical Economics'
+topic: 'Health Economics'
+details: '55(3), 937–963'
+paper_link: 'https://www.dropbox.com/s/isgr2htkzhru4dz/EE2.pdf?dl=0'
 #paperurl: 'https://doi.org/10.1007/s00181-017-1317-3'
 #citation: 'Lai, H.-P., & Tang, M.-C. (2018). Hospital Efficiency under Global Budgeting: Evidence from Taiwan. Empirical Economics, 55(3), 937-963 '
 ---
