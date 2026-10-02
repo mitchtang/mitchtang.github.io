@@ -5,4 +5,5 @@ permalink: /workingpapers/2026-04-01-paper-title-number-4
 excerpt: 'with **Kamhon Kan**'
 date: 2026-04-01
 venue: 'working paper'
+topic: 'Health Economics'
 ---

@@ -6,6 +6,8 @@
   {% if coauthors != "" %}<span class="pub-item__coauthors">({{ coauthors }})</span>{% endif %}<br>
   {% if include.post.collection == 'publications' %}
     <em>{{ include.post.venue }}</em>{% if include.post.details != "" and include.post.details %}, {{ include.post.details }}{% endif %}{% unless include.post.details == "forthcoming" %}, {{ include.post.date | date: "%Y" }}{% endunless %}.
+  {% else %}
+    <em>{{ include.post.venue | capitalize }}</em>.
   {% endif %}
   <span class="pub-item__links">
     {% if include.post.paper_link %}<a href="{{ include.post.paper_link }}">Paper</a>{% endif %}
