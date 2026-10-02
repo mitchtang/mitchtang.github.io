@@ -11,16 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
+{% assign topics = "Health Economics|Family and Gender|Industrial Organization and Other Fields" | split: "|" %}
+{% for topic in topics %}
+## {{ topic }}
 
+<ul class="pub-list">
 {% for post in site.workingpapers reversed %}
-  {% if post.venue == 'work in progress' %}{% continue %}{% endif %}
-  {% include archive-single.html %}
+  {% if post.topic == topic and post.venue != 'work in progress' %}{% include publication-item.html post=post %}{% endif %}
 {% endfor %}
-
-## Work in Progress
-
 {% for post in site.workingpapers reversed %}
-  {% if post.venue != 'work in progress' %}{% continue %}{% endif %}
-  {% include archive-single.html %}
+  {% if post.topic == topic and post.venue == 'work in progress' %}{% include publication-item.html post=post %}{% endif %}
+{% endfor %}
+</ul>
 {% endfor %}

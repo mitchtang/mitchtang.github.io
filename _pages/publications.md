@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign topics = "Health Economics|Family and Gender|Industrial Organization and Other Fields" | split: "|" %}
+{% for topic in topics %}
+## {{ topic }}
+
+<ul class="pub-list">
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.topic == topic %}{% include publication-item.html post=post %}{% endif %}
+{% endfor %}
+</ul>
 {% endfor %}

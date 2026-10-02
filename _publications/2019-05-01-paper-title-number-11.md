@@ -3,8 +3,11 @@ title: "Medical Providers as Double Agents in a Universal Health Care System: Ev
 collection: publications
 permalink: /publication/2019-05-01-paper-title-number-11
 excerpt: 'with **Yi-Nung Wu**'
-date: 2019-02-01
+date: 2020-07-01
 venue: 'Empirical Economics'
+topic: 'Health Economics'
+details: '59(1), 169–203'
+paper_link: 'https://www.dropbox.com/s/6rejd7iut7badk8/EE3.pdf?dl=0'
 #paperurl: 'https://doi.org/10.1007/s00181-017-1317-3'
 #citation: 'Lai, H.-P., & Tang, M.-C. (2018). Hospital Efficiency under Global Budgeting: Evidence from Taiwan. Empirical Economics, 55(3), 937-963 '
 ---

@@ -3,8 +3,11 @@ title: "Manageable Hospital Service Volume under Global Budgeting: Evidence from
 collection: publications
 permalink: /portfolio/hei
 excerpt: ''
-date: 2022-06-21
+date: 2023-03-01
 venue: 'Applied Economics'
+topic: 'Health Economics'
+details: '55(8), 894–906'
+paper_link: 'https://www.dropbox.com/s/wq9g6dz4k7n1hbv/AE.pdf?dl=0'
 #paperurl: 'https://www.dropbox.com/s/v8cik62k9ucv8di/HEI201110.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
 ---

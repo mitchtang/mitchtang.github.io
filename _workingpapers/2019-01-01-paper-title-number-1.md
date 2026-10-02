@@ -5,6 +5,8 @@ permalink: /workingpapers/2019-01-01-paper-title-number-1
 excerpt: 'with **Ji-Liang Shiu** and **Yu-Hui Chou**'
 date: 2019-01-01
 venue: 'working paper'
+topic: 'Health Economics'
+paper_link: 'https://www.dropbox.com/s/au67s6aeh9kw0vl/190315.pdf?dl=0'
 #paperurl: 'https://www.dropbox.com/s/au67s6aeh9kw0vl/190315.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
 ---
