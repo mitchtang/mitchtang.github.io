@@ -1,0 +1,166 @@
+/* ==========================================================================
+   Site restyle: serif body text, sans-serif headings, blue accent
+   ========================================================================== */
+
+$accent       : #1f4e79;
+$accent-dark  : #123456;
+$ink          : #1b1b1b;
+$muted        : #6b7075;
+$rule         : #e3e5e8;
+
+body {
+  font-size: 17px;
+  line-height: 1.6;
+  color: $text-color;
+}
+
+a {
+  color: $accent;
+  text-decoration: none;
+
+  &:hover {
+    color: $accent-dark;
+    text-decoration: underline;
+  }
+}
+
+/* headings: sans-serif, calmer weight */
+h1, h2, h3, h4, h5, h6,
+.page__title {
+  font-family: $sans-serif;
+  color: $ink;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.page__title {
+  font-size: 1.9em;
+  margin-bottom: 0.6em;
+}
+
+.page__content h2,
+.archive h2 {
+  font-size: 1.2em;
+  margin: 2em 0 0.8em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid $rule;
+  color: $accent;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+/* masthead */
+.masthead {
+  border-bottom: 1px solid $rule;
+  background: #fff;
+}
+
+.masthead__menu-item,
+.masthead__menu-item a {
+  font-family: $sans-serif;
+  font-size: 0.95em;
+  color: $ink;
+}
+
+.masthead__menu-item--lg a {
+  font-weight: 700;
+}
+
+.masthead__menu-item a:hover {
+  color: $accent;
+  text-decoration: none;
+}
+
+/* sidebar */
+.author__avatar img {
+  border: none;
+  padding: 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  max-width: 200px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.sidebar .author__name {
+  font-size: 1.25em;
+  font-weight: 600;
+  color: $ink;
+  line-height: 1.3;
+}
+
+.author__bio,
+.author__urls li,
+.author__urls a {
+  font-family: $sans-serif;
+  font-size: 0.9em;
+  color: $muted;
+}
+
+.author__urls li a {
+  display: inline;
+}
+
+.author__urls a:hover {
+  color: $accent;
+}
+
+/* publication lists */
+.pub-list {
+  margin-bottom: 1.5em;
+}
+
+.pub-item {
+  margin-bottom: 1.15em;
+  line-height: 1.5;
+}
+
+.pub-item__title {
+  font-family: $sans-serif;
+  font-weight: 600;
+  color: $ink;
+  font-size: 0.98em;
+}
+
+.pub-item__coauthors {
+  color: $muted;
+  font-size: 0.95em;
+
+  strong {
+    font-weight: 600;
+    color: $text-color;
+  }
+}
+
+.pub-item em {
+  color: $text-color;
+}
+
+.pub-item__links {
+  font-family: $sans-serif;
+  font-size: 0.8em;
+  margin-left: 0.35em;
+  white-space: nowrap;
+
+  a {
+    margin-right: 0.3em;
+    padding: 1px 7px;
+    border: 1px solid $rule;
+    border-radius: 3px;
+  }
+
+  a:hover {
+    border-color: $accent;
+    text-decoration: none;
+  }
+}
+
+/* footer */
+.page__footer {
+  color: $muted;
+  font-size: 0.85em;
+  border-top: 1px solid $rule;
+}
