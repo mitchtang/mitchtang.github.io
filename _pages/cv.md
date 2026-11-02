@@ -60,7 +60,7 @@ Industrial Organization, Health, Family and Gender
 
 ## Seminars
 
-- **2026:** National University of Kaohsiung, National Cheng Kung University (×2), Chia-Yi Girls' Senior High School
+- **2026:** National University of Kaohsiung, National Cheng Kung University (×2), Chia-Yi Girls' Senior High School, Song Shan Senior High School
 - **2025:** Song Shan Senior High School, National Taipei University, National Taiwan University (Public Health), Taiwan Society of Health Economics (virtual), Peking University (School of Economics, virtual)
 - **2024:** National Central University, National University of Kaohsiung, National Taiwan University
 - **2023:** National Chung Cheng University (brownbag), Academia Sinica (RCHSS)
