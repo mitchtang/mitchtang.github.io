@@ -53,6 +53,7 @@ Industrial Organization, Health, Family and Gender
 
 ## Professional Service
 
+- Secretary General, Taiwan Society of Health Economics, 2027–2030
 - Committee Member, Taiwan Economic Association Annual Meeting, Chiayi, 2024
 - Local Committee Member, Asian and Australasian Society of Labour Economics Annual Meeting, Taipei, 2023
 - Supervisor, Taiwan Economic Association, 2022–2023, 2024–2025
