@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](https://www.dropbox.com/scl/fi/6rqs6mmh8vsqs1chop724/Tangvita2608.pdf?rlkey=cp37a6f7zjvaiu93wwy3p72qs&dl=0) · Last updated August 2026
+[Download CV (PDF)](/files/cv/Tangvita2611.pdf) · [LaTeX source](/files/cv/Tangvita2611.ctx) · Last updated November 2026
 
 ## Education
 
