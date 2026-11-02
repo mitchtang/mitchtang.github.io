@@ -1,6 +1,7 @@
 ---
 title: "The Multitude of Alehouses: The Effects of Alcohol Outlet Density on Highway Safety"
 collection: publications
+published: false
 permalink: /publication/2013-10-01-paper-title-number-2
 excerpt: ''
 date: 2013-10-01
