@@ -85,6 +85,7 @@ Industrial Organization, Health, Family and Gender
 *(c: chair, d: discussant, p: presenter)*
 
 - The 6th Asian Workshop on Econometrics and Health Economics, Seoul, December 2026 (p)
+- 2026 Macroeconometric Modelling Workshop and The Memorial Symposium for Professor Liu Ta-Chung and Professor Sho-Chieh Tsiang, Taipei, November 2026 (p)
 - European Health Economics Association Conference, Rotterdam, July 2026 (p)
 - The 15th Annual Conference of the American Society of Health Economists, Minneapolis, June 2026 (p)
 - The 15th Tri-Country/Asia Pacific Health Economics Symposium, Tokyo, September 2025 (p)
