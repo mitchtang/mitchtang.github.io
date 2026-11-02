@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/files/cv/Tangvita2611.pdf) · [LaTeX source](/files/cv/Tangvita2611.ctx) · Last updated November 2026
+[Download CV (PDF)](/files/cv/Tangvita2611.pdf) · Last updated November 2, 2026
 
 ## Education
 
